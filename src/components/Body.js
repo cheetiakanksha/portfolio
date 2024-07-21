@@ -21,7 +21,7 @@ I have solid experience in UI/UX design principles and am proficient in data str
           </p>
           <button className=' mt-4 py-2 border-2 bg-accentColor '>
             <a
-              href='path_to_your_resume.pdf'
+              href='https://drive.google.com/file/d/1QevFEfN8m2rDongQyzl4nXxgwnWNgPPF/view?usp=sharing'
               target='_blank'
               rel='noopener noreferrer'
               className=' border-2 border-accentColor text-slate-200 font-bold py-4 px-6 rounded-full '>View Resume
