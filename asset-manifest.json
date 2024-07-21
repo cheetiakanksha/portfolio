@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.701d80b6.css",
+    "main.js": "/portfolio/static/js/main.c00c0a42.js",
+    "static/js/453.bb177003.chunk.js": "/portfolio/static/js/453.bb177003.chunk.js",
+    "static/media/netflixgpt.png": "/portfolio/static/media/netflixgpt.fbb5124179b5c027d2ae.png",
+    "static/media/food-ordering app .png": "/portfolio/static/media/food-ordering app .0ccc5629dcab88e9f434.png",
+    "static/media/Youtubeapp.png": "/portfolio/static/media/Youtubeapp.b44e12a0fff130c385b2.png",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.771c588c55a7bc87e0c8.jpg",
+    "static/media/bg3.png": "/portfolio/static/media/bg3.e10e406d4a0e141d3b94.png",
+    "index.html": "/portfolio/index.html",
+    "main.701d80b6.css.map": "/portfolio/static/css/main.701d80b6.css.map",
+    "main.c00c0a42.js.map": "/portfolio/static/js/main.c00c0a42.js.map",
+    "453.bb177003.chunk.js.map": "/portfolio/static/js/453.bb177003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701d80b6.css",
+    "static/js/main.c00c0a42.js"
+  ]
+}
