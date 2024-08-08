@@ -10,7 +10,7 @@ const TypingEffect = ({ text }) => {
       const timeoutId = setTimeout(() => {
         setDisplayedText(displayedText + text[index]);
         setIndex(index + 1);
-      }, 150); // Adjust the speed of typing here
+      }, 150); 
       return () => clearTimeout(timeoutId);
     }
   }, [index, text, displayedText]);
