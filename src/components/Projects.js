@@ -11,7 +11,7 @@ const projects = [
     clickedDescription:'Designed Netflix-GPT, a Netflix clone using React.js and Tailwind CSS, integrated with TMDB for movie details and Firebase for authentication, including YouTube trailers and GPT-powered movie search via OpenAI API.Featured seamless login with Firebase, multi-language support (English, Hindi, Spanish), and efficient UI components leveraging Redux Toolkit for state management.Enhanced application performance with memoized API calls and created intelligent movie search functionality using OpenAI GPT, ensuring a smooth and responsive user experience.',
     keyFeatures:'',
     github: 'https://github.com/cheetiakanksha/Netflix-Gpt',
-    live: 'https://gpt-netflix.netlify.app/'
+    live: 'https://gptmoviesearch.netlify.app/'
   },
   {
     title: 'My-Youtube',
